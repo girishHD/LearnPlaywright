@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Identifier Rules</title>
+</head>
+
+<body>
+    <h2>Open Console (F12) to see results</h2>
+
+    <script>
+        // ---------- RULE 1: Start with letter, underscore, or dollar ----------
+        let name = "valid";          // starts with letter
+        let _private = "valid";      // starts with underscore
+        let $dollar = "valid";       // starts with dollar
+
+        console.log("Rule 1 - Start chars:", name, _private, $dollar);
+
+        // ---------- RULE 2: Subsequent chars can include digits ----------
+        let item1 = "item 1";
+        let version2point0 = "v2.0";
+
+        console.log("Rule 2 - Digits allowed after start:", item1, version2point0);
+
+        // ---------- RULE 3: Cannot be a reserved keyword ----------
+        // let let = "error";     // ❌ SyntaxError
+        // let for = "error";     // ❌ SyntaxError
+        // let return = "error";  // ❌ SyntaxError
+        let _let = "ok";           // underscore avoids keyword conflict
+        let _for = "ok";
+        let $return = "ok";
+
+        console.log("Rule 3 - Keywords avoided via _ or $:", _let, _for, $return);
+
+        // ---------- RULE 4: Case-sensitive ----------
+        let myVar = "lowercase v";
+        let myvar = "no capital V";
+        let MYVAR = "all caps";
+
+        console.log("Rule 4 - Case-sensitive:", myVar, myvar, MYVAR);
+
+        // ---------- RULE 5: Unicode letters supported ----------
+        let ñoño = "Spanish ñ";
+        let école = "French";
+        let 你好 = "Chinese";
+        let π = 3.14159;
+
+        console.log("Rule 5 - Unicode:", ñoño, école, 你好, π);
+
+        // ---------- RULE 6: No spaces or hyphens ----------
+        // let my var = "error";   // ❌ SyntaxError
+        // let my-var = "error";  // ❌ SyntaxError
+
+        // ---------- RULE 7: No length limit ----------
+        let a = "short";
+        let thisIsAVeryLongVariableNameThatKeepsGoingAndGoingAndStillWorksFine = "long";
+
+        console.log("Rule 6 & 7 - No spaces/hyphens/length limits successful");
+
+        // ---------- Summary ----------
+        console.log("\n=== All identifier rules demonstrated above ===");
+    </script>
+</body>
+
+</html>
