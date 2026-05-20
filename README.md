@@ -8,6 +8,7 @@ A structured JavaScript learning resource for Playwright test automation.
 - **chapter_02_Javascript_Concepts** — Variable declaration with `var`
 - **chapter_03_Identifier_Literals** — JavaScript identifier rules, naming conventions, comments, and VS Code keyboard shortcuts
 - **chapter_04_Javascript_Concepts** — Variable declarations (`var`, `let`, `const`), functions, hoisting, and scope
+- **Chapter_05_Literal** — Literals, null/undefined, numbers, strings, template literals, and quotes
 
 ## Usage
 
