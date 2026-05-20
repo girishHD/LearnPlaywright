@@ -36,7 +36,7 @@ A structured JavaScript learning resource for Playwright test automation.
 - `20_let_const.js`
 - `21_Jr_Qa.js`
 
-### Chapter_05_Literal — Literals, null/undefined, numbers, strings, template literals, and quotes
+### chapter_05_Literal — Literals, null/undefined, numbers, strings, template literals, and quotes
 - `22_Literals.js`
 - `23_null_undefined.js`
 - `24_null.js`
@@ -45,6 +45,17 @@ A structured JavaScript learning resource for Playwright test automation.
 - `27_String.js`
 - `28_Template_Literal.js`
 - `29_Backtick_single_double.js`
+
+### chapter_06_Operator — Assignment, arithmetic, comparison, and loose/strict equality
+- `30_Assignment_OP.js`
+- `31_Arithmetic_OP.js`
+- `32_Modulus_OP.js`
+- `33_Expo_OP.js`
+- `34_Compond_OP.js`
+- `35_Comparison_OP.js`
+- `36_Comparison_Strict_Loose.js`
+- `37_IQ_Loose_Strict.js`
+- `38_Confusing_Comparison.js`
 
 ## Usage
 
