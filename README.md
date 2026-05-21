@@ -46,7 +46,7 @@ A structured JavaScript learning resource for Playwright test automation.
 - `28_Template_Literal.js`
 - `29_Backtick_single_double.js`
 
-### chapter_06_Operator — Assignment, arithmetic, comparison, and loose/strict equality
+### chapter_06_Operator — Assignment, arithmetic, comparison, logical, ternary, typeof, increment/decrement, and nullish operators
 - `30_Assignment_OP.js`
 - `31_Arithmetic_OP.js`
 - `32_Modulus_OP.js`
@@ -56,6 +56,17 @@ A structured JavaScript learning resource for Playwright test automation.
 - `36_Comparison_Strict_Loose.js`
 - `37_IQ_Loose_Strict.js`
 - `38_Confusing_Comparison.js`
+- `39_Logical_OP.js`
+- `40_String_Con_OP.js`
+- `41_Ternary_OP.js`
+- `42_Typeof_OP.js`
+- `43_Incre_Decre_OP.js`
+- `44_Null_OP.js`
+- `45_Post_Increment.js`
+- `46_IQ_Increment.js`
+- `47_Advance_ID.js`
+- `Task_1.js`
+- `Task_2.js`
 
 ## Usage
 
