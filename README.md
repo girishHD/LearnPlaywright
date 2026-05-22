@@ -68,6 +68,40 @@ A structured JavaScript learning resource for Playwright test automation.
 - `Task_1.js`
 - `Task_2.js`
 
+### chapter_07_If_else — Conditional logic with real-world QA/test automation scenarios
+- `48_IF_ELSE.js`
+- `49_IF_ELSEIF_ELSE.js`
+- `50_REAL_IF_ELSE.js`
+- `51_API_IF_ELSE.js`
+- `52_IQ_IF_ELSE.js`
+- `53_IF_ELSE.js`
+- `54_IQ.js`
+- `55_IE.js`
+- `56_ODD_EVEN.js`
+- `57_GRADE_CAL.js`
+- `58_LEAP_YEAR.js`
+- `Bug_Severity.js`
+- `Health_Reporter.js`
+- `Login_Lockout.js`
+- `Pass_Fail_Verdict.js`
+- `Status_Code.js`
+
+### chapter_08_Switch_Statement — Switch-case control flow with QA-oriented examples
+- `59_Switch.js`
+- `60_No_Break.js`
+- `61_Default.js`
+- `62_REAL_TIME_EXAMPLE.js`
+- `63_Switch_Group.js`
+- `64_IQ.js`
+- `65_IQ2.js`
+- `66_IQ3.js`
+- `67_IQ4.js`
+
+### chapter_09_UserInput.js — User input methods (browser prompt, Node.js readline, prompt-sync)
+- `68_User_Input.js`
+- `69_Node_readline.js`
+- `70_prompy_sync.js`
+
 ## Usage
 
 Run `.js` files with Node.js:
