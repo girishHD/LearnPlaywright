@@ -102,6 +102,22 @@ A structured JavaScript learning resource for Playwright test automation.
 - `69_Node_readline.js`
 - `70_prompy_sync.js`
 
+### chapter_10_Loops — For, while, do-while loops, for...of/in, FizzBuzz, and triangle classifier
+- `71_For_Loop.js`
+- `72_For_loop.js`
+- `73_For_Loop2.js`
+- `74_IQ.js`
+- `75_For_OF_IN_EACH.js`
+- `76_While.js`
+- `77_Do_While.js`
+- `78_Do_While.js`
+- `79_IQ.js`
+- `80_IQ.js`
+- `81_IQ.js`
+- `82_IQ.js`
+- `FizzBuzz.js`
+- `Trianagle_Clasiifier.js`
+
 ## Usage
 
 Run `.js` files with Node.js:
