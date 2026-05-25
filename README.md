@@ -103,6 +103,17 @@ A structured JavaScript learning resource for Playwright test automation.
 - `70_prompy_sync.js`
 
 ### chapter_10_Loops — For, while, do-while loops, for...of/in, FizzBuzz, and triangle classifier
+
+### chapter_11_Arrays — Array creation, access, adding/removing elements, searching, iterating, and transformation
+- `83_Arrays.js`
+- `84_Arrays.js`
+- `85_Access_array.js`
+- `86_Arrays_Adding_Remove.js`
+- `87_Adding_Remove2.js`
+- `88_Real_Example.js`
+- `89_Searching.js`
+- `90_Iterate.js`
+- `91_Transform_Array.js`
 - `71_For_Loop.js`
 - `72_For_loop.js`
 - `73_For_Loop2.js`
