@@ -13,6 +13,6 @@ let total = scores.reduce((sum, s) => sum + s, 0);
 // let total = scores.reduce((a, b) => a + b, 0);
 console.log(total);
 
-// falt - faltness nested array
+// flatt - flatness nested array
 let nested = [[1, 2], [3, 4], [5]];
 console.log(nested.flat());

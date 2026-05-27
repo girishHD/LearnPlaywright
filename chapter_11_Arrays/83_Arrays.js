@@ -9,5 +9,5 @@ console.log(arr[4]); // undefined
 
 let testResults = ["pass", "fail", "pass", "skip"];
 
-let mix = ["hello", 1, true, null]; // JS hold mix of data types in an array]
+let mix = ["hello", 1, true, null]; // [JS hold mix of data types in an array]
 
