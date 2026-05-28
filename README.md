@@ -139,7 +139,7 @@ A structured JavaScript learning resource for Playwright test automation.
 - `98_Type2_Fn_With_Param_No_Return.js`
 - `99_Type3_Fn_Without_Param_Return_Type.js`
 - `100_Type4_Fn_With_Param_With_Return.js`
-- `101_Template_Literal,js`
+- `101_Template_Literal.js`
 - `102_Fn_expression.js`
 - `103_Arrow_Fn.js`
 
