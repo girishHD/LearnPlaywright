@@ -118,7 +118,7 @@ A structured JavaScript learning resource for Playwright test automation.
 - `FizzBuzz.js`
 - `Trianagle_Clasiifier.js`
 
-### chapter_11_Arrays — Array creation, access, adding/removing elements, searching, iterating, and transformation
+### chapter_11_Arrays — Array creation, access, adding/removing elements, searching, iterating, transformation, sorting, slicing, concatenation, and type checking
 - `83_Arrays.js`
 - `84_Arrays.js`
 - `85_Access_array.js`
@@ -128,6 +128,20 @@ A structured JavaScript learning resource for Playwright test automation.
 - `89_Searching.js`
 - `90_Iterate.js`
 - `91_Transform_Array.js`
+- `92_Array_Sorting.js`
+- `93_Array_Slicing.js`
+- `94_Concat_Array.js`
+- `95_Array_Checking.js`
+
+### chapter_11_Functions — Function types, parameters, return values, expressions, and arrow functions
+- `96_Functions.js`
+- `97_Type1_Fn_Basic_Function.js`
+- `98_Type2_Fn_With_Param_No_Return.js`
+- `99_Type3_Fn_Without_Param_Return_Type.js`
+- `100_Type4_Fn_With_Param_With_Return.js`
+- `101_Template_Literal,js`
+- `102_Fn_expression.js`
+- `103_Arrow_Fn.js`
 
 ## Usage
 
