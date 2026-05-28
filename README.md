@@ -133,7 +133,7 @@ A structured JavaScript learning resource for Playwright test automation.
 - `94_Concat_Array.js`
 - `95_Array_Checking.js`
 
-### chapter_11_Functions — Function types, parameters, return values, expressions, and arrow functions
+### chapter_12_Functions — Function types, parameters, return values, expressions, and arrow functions
 - `96_Functions.js`
 - `97_Type1_Fn_Basic_Function.js`
 - `98_Type2_Fn_With_Param_No_Return.js`
