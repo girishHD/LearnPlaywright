@@ -1,154 +1,183 @@
 # Learn Playwright
 
-A structured JavaScript learning resource for Playwright test automation.
+A comprehensive, hands-on JavaScript learning resource designed for QA engineers and automation professionals looking to master Playwright test automation. This repository covers JavaScript fundamentals — from basic syntax to advanced concepts — with real-world QA/testing scenarios throughout.
+
+---
+
+## Table of Contents
+
+- [About](#about)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Learning Roadmap](#learning-roadmap)
+- [Chapters](#chapters)
+- [Usage](#usage)
+
+---
+
+## About
+
+This course is structured into 12 progressive chapters that build JavaScript proficiency step-by-step. Each chapter focuses on a core concept and includes practical examples, interview questions (IQ), and real-world test automation scenarios. By the end, you'll have a solid foundation in JavaScript for writing Playwright tests.
+
+**Total files:** ~140+ code examples across 12 chapters.
+
+---
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org/) (v14 or later)
+- A modern web browser (for `.html` examples)
+- Basic familiarity with the command line
+
+---
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone <repository-url>
+   cd LearnPlaywright
+   ```
+
+2. **Run a JavaScript file:**
+
+   ```bash
+   node chapter_01_Basics/01_Basics.js
+   ```
+
+3. **Open HTML files** in your browser to view console output:
+
+   ```bash
+   start chapter_03_Identifier_Literals/01_identifier_rules.html
+   ```
+
+---
+
+## Learning Roadmap
+
+| Step | Chapter | Topic | Goal |
+|------|---------|-------|------|
+| 1 | 01 | Basics | Set up environment, run first JS code, understand hot code paths |
+| 2 | 02 | JS Concepts | Variable declaration with `var` |
+| 3 | 03 | Identifiers & Literals | Naming rules, comments, VS Code shortcuts |
+| 4 | 04 | JS Concepts II | `var`, `let`, `const`, hoisting, scope, functions |
+| 5 | 05 | Literals | Null/undefined, numbers, strings, template literals |
+| 6 | 06 | Operators | All JS operators with practical tasks |
+| 7 | 07 | If/Else | Conditional logic, real-world QA scenarios |
+| 8 | 08 | Switch | Switch-case flow control |
+| 9 | 09 | User Input | Prompt, readline, prompt-sync |
+| 10 | 10 | Loops | For/while/do-while, for...of/in, FizzBuzz |
+| 11 | 11 | Arrays | CRUD, search, transform, sort, slice, concat |
+| 12 | 12 | Functions | Function types, expressions, arrow functions, closures, IIFE, higher-order functions |
+
+---
 
 ## Chapters
 
-### chapter_01_Basics — Hello World, loops, environment setup, and hot code paths
-- `01_Basics.js`
-- `02_JS.js`
-- `03_Verify_Setup.js`
-- `04_HotCode.js`
+### Chapter 01 — Basics
+**Topics:** Hello World, loops, environment setup, hot code paths
 
-### chapter_02_Javascript_Concepts — Variable declaration with `var`
-- `05_JS_Basics.js`
+Files: `01_Basics.js`, `02_JS.js`, `03_Verify_Setup.js`, `04_HotCode.js`
 
-### chapter_03_Identifier_Literals — JavaScript identifier rules, naming conventions, comments, and VS Code keyboard shortcuts
-- `06_Identifiers_Rules.js`
-- `07_Identifier_Part2.js`
-- `08_Comments.js`
+---
+
+### Chapter 02 — JavaScript Concepts
+**Topics:** Variable declaration with `var`
+
+Files: `05_JS_Basics.js`
+
+---
+
+### Chapter 03 — Identifier & Literals
+**Topics:** JavaScript identifier rules, naming conventions, comments, VS Code keyboard shortcuts (Windows & Mac)
+
+Files:
+- `06_Identifiers_Rules.js`, `07_Identifier_Part2.js`, `08_Comments.js`
 - `01_identifier_rules.html`
-- `VS_Code_Keyborad_Shortcut_windows.md`
-- `VS_Code_Keyborad_Shortcut_mac.md`
+- `VS_Code_Keyborad_Shortcut_windows.md`, `VS_Code_Keyborad_Shortcut_mac.md`
 
-### chapter_04_Javascript_Concepts — Variable declarations (`var`, `let`, `const`), functions, hoisting, and scope
-- `09_var_let_const.js`
-- `10_functions.js`
-- `11_var_explained.js`
-- `12_let_explained.js`
-- `13_const_explained.js`
-- `14_var_functionscope.js`
-- `15_let_scope.js`
-- `16_Hoisting.js`
-- `17_hoisting_fn.js`
-- `18_let_joisting.js`
-- `19_let_hoisting_block.js`
-- `20_let_const.js`
-- `21_Jr_Qa.js`
+---
 
-### chapter_05_Literal — Literals, null/undefined, numbers, strings, template literals, and quotes
-- `22_Literals.js`
-- `23_null_undefined.js`
-- `24_null.js`
-- `25Literal_All.js`
-- `26_Literal_Number_All.js`
-- `27_String.js`
-- `28_Template_Literal.js`
-- `29_Backtick_single_double.js`
+### Chapter 04 — JavaScript Concepts
+**Topics:** Variable declarations (`var`, `let`, `const`), functions, hoisting, function scope vs block scope
 
-### chapter_06_Operator — Assignment, arithmetic, comparison, logical, ternary, typeof, increment/decrement, and nullish operators
-- `30_Assignment_OP.js`
-- `31_Arithmetic_OP.js`
-- `32_Modulus_OP.js`
-- `33_Expo_OP.js`
-- `34_Compond_OP.js`
-- `35_Comparison_OP.js`
-- `36_Comparison_Strict_Loose.js`
-- `37_IQ_Loose_Strict.js`
-- `38_Confusing_Comparison.js`
-- `39_Logical_OP.js`
-- `40_String_Con_OP.js`
-- `41_Ternary_OP.js`
-- `42_Typeof_OP.js`
-- `43_Incre_Decre_OP.js`
-- `44_Null_OP.js`
-- `45_Post_Increment.js`
-- `46_IQ_Increment.js`
-- `47_Advance_ID.js`
-- `Task_1.js`
-- `Task_2.js`
+Files: `09_var_let_const.js` – `21_Jr_Qa.js` (13 files)
 
-### chapter_07_If_else — Conditional logic with real-world QA/test automation scenarios
-- `48_IF_ELSE.js`
-- `49_IF_ELSEIF_ELSE.js`
-- `50_REAL_IF_ELSE.js`
-- `51_API_IF_ELSE.js`
-- `52_IQ_IF_ELSE.js`
-- `53_IF_ELSE.js`
-- `54_IQ.js`
-- `55_IE.js`
-- `56_ODD_EVEN.js`
-- `57_GRADE_CAL.js`
-- `58_LEAP_YEAR.js`
-- `Bug_Severity.js`
-- `Health_Reporter.js`
-- `Login_Lockout.js`
-- `Pass_Fail_Verdict.js`
-- `Status_Code.js`
+---
 
-### chapter_08_Switch_Statement — Switch-case control flow with QA-oriented examples
-- `59_Switch.js`
-- `60_No_Break.js`
-- `61_Default.js`
-- `62_REAL_TIME_EXAMPLE.js`
-- `63_Switch_Group.js`
-- `64_IQ.js`
-- `65_IQ2.js`
-- `66_IQ3.js`
-- `67_IQ4.js`
+### Chapter 05 — Literal
+**Topics:** Literals, null vs undefined, numbers (all types), strings, template literals, backtick vs single vs double quotes
 
-### chapter_09_UserInput.js — User input methods (browser prompt, Node.js readline, prompt-sync)
-- `68_User_Input.js`
-- `69_Node_readline.js`
-- `70_prompy_sync.js`
+Files: `22_Literals.js` – `29_Backtick_single_double.js` (8 files)
 
-### chapter_10_Loops — For, while, do-while loops, for...of/in, FizzBuzz, and triangle classifier
-- `71_For_Loop.js`
-- `72_For_loop.js`
-- `73_For_Loop2.js`
-- `74_IQ.js`
-- `75_For_OF_IN_EACH.js`
-- `76_While.js`
-- `77_Do_While.js`
-- `78_Do_While.js`
-- `79_IQ.js`
-- `80_IQ.js`
-- `81_IQ.js`
-- `82_IQ.js`
-- `FizzBuzz.js`
-- `Trianagle_Clasiifier.js`
+---
 
-### chapter_11_Arrays — Array creation, access, adding/removing elements, searching, iterating, transformation, sorting, slicing, concatenation, and type checking
-- `83_Arrays.js`
-- `84_Arrays.js`
-- `85_Access_array.js`
-- `86_Arrays_Adding_Remove.js`
-- `87_Adding_Remove2.js`
-- `88_Real_Example.js`
-- `89_Searching.js`
-- `90_Iterate.js`
-- `91_Transform_Array.js`
-- `92_Array_Sorting.js`
-- `93_Array_Slicing.js`
-- `94_Concat_Array.js`
-- `95_Array_Checking.js`
+### Chapter 06 — Operator
+**Topics:** Assignment, arithmetic, modulus, exponentiation, compound, comparison (strict/loose), logical, string concatenation, ternary, typeof, increment/decrement, nullish coalescing, interview questions, practical tasks
 
-### chapter_12_Functions — Function types, parameters, return values, expressions, and arrow functions
-- `96_Functions.js`
-- `97_Type1_Fn_Basic_Function.js`
-- `98_Type2_Fn_With_Param_No_Return.js`
-- `99_Type3_Fn_Without_Param_Return_Type.js`
-- `100_Type4_Fn_With_Param_With_Return.js`
-- `101_Template_Literal.js`
-- `102_Fn_expression.js`
-- `103_Arrow_Fn.js`
+Files: `30_Assignment_OP.js` – `47_Advance_ID.js`, `Task_1.js`, `Task_2.js` (20 files)
+
+---
+
+### Chapter 07 — If/Else
+**Topics:** Conditional logic with real-world QA/test automation scenarios — bug severity, health reporter, login lockout, pass/fail verdict, HTTP status codes, grade calculation, leap year detection
+
+Files: `48_IF_ELSE.js` – `58_LEAP_YEAR.js`, `Bug_Severity.js`, `Health_Reporter.js`, `Login_Lockout.js`, `Pass_Fail_Verdict.js`, `Status_Code.js` (16 files)
+
+---
+
+### Chapter 08 — Switch Statement
+**Topics:** Switch-case flow control, fall-through (no break), default case, grouping cases, real-time QA examples, interview questions
+
+Files: `59_Switch.js` – `67_IQ4.js` (9 files)
+
+---
+
+### Chapter 09 — User Input
+**Topics:** Browser prompt, Node.js readline module, prompt-sync package
+
+Files: `68_User_Input.js`, `69_Node_readline.js`, `70_prompy_sync.js`
+
+---
+
+### Chapter 10 — Loops
+**Topics:** `for`, `while`, `do-while` loops, `for...of` / `for...in`, FizzBuzz, triangle classifier, interview questions
+
+Files: `71_For_Loop.js` – `82_IQ.js`, `FizzBuzz.js`, `Trianagle_Clasiifier.js` (14 files)
+
+---
+
+### Chapter 11 — Arrays
+**Topics:** Array creation, element access, adding/removing elements, searching, iteration, transformation (map/filter/reduce), sorting, slicing, concatenation, type checking, real-world example
+
+Files: `83_Arrays.js` – `95_Array_Checking.js` (13 files)
+
+---
+
+### Chapter 12 — Functions
+**Topics:** Function types (basic, parameterized, return types), function expressions, arrow functions, IIFE, default parameters, rest parameters, scope, closures, higher-order functions, pure functions, real-world API examples, interview questions
+
+Files: `96_Functions.js` – `117_Pure_Fn.js` (22 files)
+
+---
 
 ## Usage
 
-Run `.js` files with Node.js:
+Run any JavaScript file with Node.js:
 
-```
+```bash
 node chapter_01_Basics/01_Basics.js
 ```
 
-Open `.html` files in a browser to view console output.
+Open HTML files in a browser to view console output:
+
+```bash
+start chapter_03_Identifier_Literals/01_identifier_rules.html
+```
+
+Install optional packages (for chapter 09 prompt-sync example):
+
+```bash
+npm install prompt-sync
+```
