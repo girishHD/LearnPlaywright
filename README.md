@@ -2,6 +2,8 @@
 
 A comprehensive, hands-on JavaScript learning resource designed for QA engineers and automation professionals looking to master Playwright test automation. This repository covers JavaScript fundamentals — from basic syntax to advanced concepts — with real-world QA/testing scenarios throughout.
 
+Covers JavaScript fundamentals through 13 progressive chapters with **140+ code examples**, real-world QA scenarios, and interview questions — building from basic syntax to advanced concepts needed for Playwright test automation.
+
 ---
 
 ## Table of Contents
@@ -17,9 +19,9 @@ A comprehensive, hands-on JavaScript learning resource designed for QA engineers
 
 ## About
 
-This course is structured into 12 progressive chapters that build JavaScript proficiency step-by-step. Each chapter focuses on a core concept and includes practical examples, interview questions (IQ), and real-world test automation scenarios. By the end, you'll have a solid foundation in JavaScript for writing Playwright tests.
+This course is structured into 13 progressive chapters that build JavaScript proficiency step-by-step. Each chapter focuses on a core concept and includes practical examples, interview questions (IQ), and real-world test automation scenarios. By the end, you'll have a solid foundation in JavaScript for writing Playwright tests.
 
-**Total files:** ~140+ code examples across 12 chapters.
+**Total files:** 140+ code examples across 13 chapters.
 
 ---
 
@@ -70,6 +72,7 @@ This course is structured into 12 progressive chapters that build JavaScript pro
 | 10 | 10 | Loops | For/while/do-while, for...of/in, FizzBuzz |
 | 11 | 11 | Arrays | CRUD, search, transform, sort, slice, concat |
 | 12 | 12 | Functions | Function types, expressions, arrow functions, closures, IIFE, higher-order functions |
+| 13 | 13 | Strings | String properties, search/check, substring, transform, anagram, reverse |
 
 ---
 
@@ -159,6 +162,17 @@ Files: `83_Arrays.js` – `95_Array_Checking.js` (13 files)
 **Topics:** Function types (basic, parameterized, return types), function expressions, arrow functions, IIFE, default parameters, rest parameters, scope, closures, higher-order functions, pure functions, real-world API examples, interview questions
 
 Files: `96_Functions.js` – `117_Pure_Fn.js` (22 files)
+
+---
+
+### Chapter 13 — Strings
+**Topics:** String creation, properties, search/check methods, substring extraction, transformation, anagram detection, string reversal, interview questions
+
+Files:
+- `118_Strings.js`, `119_String_Properties.js`, `120_Search_Check_Str.js`
+- `121_Substring.js`, `122_Transform_Str.js`, `123_SC.js`
+- `Anagram.js`, `String_Reverse.js`
+- `javascript_stringcheatsheet.md`
 
 ---
 
