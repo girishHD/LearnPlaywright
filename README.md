@@ -2,7 +2,7 @@
 
 A comprehensive, hands-on JavaScript learning resource designed for QA engineers and automation professionals looking to master Playwright test automation. This repository covers JavaScript fundamentals — from basic syntax to advanced concepts — with real-world QA/testing scenarios throughout.
 
-Covers JavaScript fundamentals through 13 progressive chapters with **140+ code examples**, real-world QA scenarios, and interview questions — building from basic syntax to advanced concepts needed for Playwright test automation.
+Covers JavaScript fundamentals through 14 progressive chapters with **150+ code examples**, real-world QA scenarios, and interview questions — building from basic syntax to advanced concepts needed for Playwright test automation.
 
 ---
 
@@ -19,9 +19,9 @@ Covers JavaScript fundamentals through 13 progressive chapters with **140+ code 
 
 ## About
 
-This course is structured into 13 progressive chapters that build JavaScript proficiency step-by-step. Each chapter focuses on a core concept and includes practical examples, interview questions (IQ), and real-world test automation scenarios. By the end, you'll have a solid foundation in JavaScript for writing Playwright tests.
+This course is structured into 14 progressive chapters that build JavaScript proficiency step-by-step. Each chapter focuses on a core concept and includes practical examples, interview questions (IQ), and real-world test automation scenarios. By the end, you'll have a solid foundation in JavaScript for writing Playwright tests.
 
-**Total files:** 140+ code examples across 13 chapters.
+**Total files:** 150+ code examples across 14 chapters.
 
 ---
 
@@ -73,6 +73,7 @@ This course is structured into 13 progressive chapters that build JavaScript pro
 | 11 | 11 | Arrays | CRUD, search, transform, sort, slice, concat |
 | 12 | 12 | Functions | Function types, expressions, arrow functions, closures, IIFE, higher-order functions |
 | 13 | 13 | Strings | String properties, search/check, substring, transform, anagram, reverse |
+| 14 | 14 | Objects | Creation, primitive vs reference, destructuring, spread, getter/setter, interview questions |
 
 ---
 
@@ -173,6 +174,17 @@ Files:
 - `121_Substring.js`, `122_Transform_Str.js`, `123_SC.js`
 - `Anagram.js`, `String_Reverse.js`
 - `javascript_stringcheatsheet.md`
+
+---
+
+### Chapter 14 — Objects
+**Topics:** Object creation, primitive vs reference types, object properties & methods, destructuring, spread operator, getter/setter methods, real-world examples, interview questions
+
+Files:
+- `124_Objects.js`, `125_Objects2.js`, `126_Objects_Creation.js`, `127_Objects_REAL.js`
+- `128_Primitive_Ref.js`, `129_Ob_Examples.js`, `130_IQ.js`, `131_Object_Fn.js`
+- `132_Obj_Decon.js`, `133_Spread.js`, `134_Objects_GET_SET_Methods.js`
+- `135_IQ.js`, `136_Obj_REAL.js`, `137_Let_Const_Obj.js`
 
 ---
 
