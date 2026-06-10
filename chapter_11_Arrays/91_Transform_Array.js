@@ -1,6 +1,7 @@
 let scores = [45, 82, 91, 60, 73];
 
 // map - transform every element, return a new arrays
+// map can take you item one by one
 let grades = scores.map(s => s > 70 ? "Pass" : "Fail");
 console.log(grades);
 
