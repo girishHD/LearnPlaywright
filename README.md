@@ -2,7 +2,7 @@
 
 A comprehensive, hands-on JavaScript learning resource designed for QA engineers and automation professionals looking to master Playwright test automation. This repository covers JavaScript fundamentals — from basic syntax to advanced concepts — with real-world QA/testing scenarios throughout.
 
-Covers JavaScript fundamentals through 15 progressive chapters with **150+ code examples**, real-world QA scenarios, and interview questions — building from basic syntax to advanced concepts needed for Playwright test automation.
+Covers JavaScript fundamentals through **16 progressive chapters** with **160+ code examples**, real-world QA scenarios, and interview questions — building from basic syntax to advanced concepts needed for Playwright test automation.
 
 ---
 
@@ -19,9 +19,9 @@ Covers JavaScript fundamentals through 15 progressive chapters with **150+ code 
 
 ## About
 
-This course is structured into 15 progressive chapters that build JavaScript proficiency step-by-step. Each chapter focuses on a core concept and includes practical examples, interview questions (IQ), and real-world test automation scenarios. By the end, you'll have a solid foundation in JavaScript for writing Playwright tests.
+This course is structured into **16 progressive chapters** that build JavaScript proficiency step-by-step. Each chapter focuses on a core concept and includes practical examples, interview questions (IQ), and real-world test automation scenarios. By the end, you'll have a solid foundation in JavaScript for writing Playwright tests.
 
-**Total files:** 150+ code examples across 15 chapters.
+**Total files:** 160+ code examples across 16 chapters.
 
 ---
 
@@ -75,6 +75,7 @@ This course is structured into 15 progressive chapters that build JavaScript pro
 | 13 | 13 | Strings | String properties, search/check, substring, transform, anagram, reverse |
 | 14 | 14 | Objects | Creation, primitive vs reference, destructuring, spread, getter/setter, interview questions |
 | 15 | 15 | 2D Arrays | Creating, accessing, iterating, transforming 2D arrays, real-world patterns, interview questions |
+| 16 | 16 | Callbacks | Synchronous vs asynchronous callbacks, callback hell, parameter passing, Playwright callback patterns |
 
 ---
 
@@ -195,6 +196,17 @@ Files:
 Files:
 - `138_2D_Array.js`, `139_2d.js`, `140_REAL.js`
 - `141_2D_Array_Fn.js`, `142_IQ_Rifght_Pattern_Py.js`
+
+---
+
+### Chapter 16 — Callback
+**Topics:** Synchronous & asynchronous callbacks, callback functions as parameters, callback hell, nested callback steps, returning values from callbacks, Playwright callback integration patterns, real-world automation scenarios
+
+Files:
+- `143_Callback.js`, `144_CB.js`, `145_CB_Fn.js`, `146_PW_CB.js`
+- `147_JS_CB.js`, `148_Sync_CB.js`, `149_Async_CB.js`
+- `150_CB_Hell.js`, `151_CB_Hell_20_Steps.js`
+- `152_CB_Parameter.js`, `153_CB_Returns.js`
 
 ---
 
