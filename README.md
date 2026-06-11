@@ -191,11 +191,12 @@ Files:
 ---
 
 ### Chapter 15 — 2D Array
-**Topics:** Creating, accessing, iterating, and transforming 2D arrays; real-world QA patterns, right-angle pattern printing, interview questions
+**Topics:** Creating, accessing, iterating, and transforming 2D arrays; real-world QA patterns, pattern printing (right-angle, reverse, pyramid), interview questions
 
 Files:
 - `138_2D_Array.js`, `139_2d.js`, `140_REAL.js`
-- `141_2D_Array_Fn.js`, `142_IQ_Rifght_Pattern_Py.js`
+- `141_2D_Array_Fn.js`, `142_IQ_Right_Pattern_Py.js`
+- `Print_Reverse_Pattern.js`, `Pyramid_Pattern.js`
 
 ---
 
