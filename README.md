@@ -3,7 +3,7 @@
 
 ME GRUNT. ME TEACH YOU MAKE COMPUTER BOX DO WHAT YOU WANT.
 
-This cave have many rocks with magic symbols. 16 heap of rocks. 160+ scratch marks. Make QA fire burn bright.
+This cave have many rocks with magic symbols. 17 heap of rocks. 170+ scratch marks. Make QA fire burn bright.
 
 ---
 
@@ -20,7 +20,7 @@ This cave have many rocks with magic symbols. 16 heap of rocks. 160+ scratch mar
 
 ## WHAT THIS CAVE ABOUT
 
-16 heap of rocks. Each heap teach new grunt. Many scratch marks. Many hard words from big brain hunters. End of cave you make browser go ZOOOM like mammoth.
+17 heap of rocks. Each heap teach new grunt. Many scratch marks. Many hard words from big brain hunters. End of cave you make browser go ZOOOM like mammoth.
 
 ---
 
@@ -75,6 +75,7 @@ This cave have many rocks with magic symbols. 16 heap of rocks. 160+ scratch mar
 | 14 | 14 | Objects | Cave painting with many details. Spread berry juice |
 | 15 | 15 | 2D Arrays | Rocks in line, lines in pile. Pyramid rock stacking |
 | 16 | 16 | Callbacks | Hunter call back when mammoth caught. Hell of callbacks (many mammoth) |
+| 17 | 17 | Promises | Promise mammoth later. Then catch. Finally eat. All wait together |
 
 ---
 
@@ -207,6 +208,16 @@ Rocks:
 - `147_JS_CB.js`, `148_Sync_CB.js`, `149_Async_CB.js`
 - `150_CB_Hell.js`, `151_CB_Hell_20_Steps.js`
 - `152_CB_Parameter.js`, `153_CB_Returns.js`
+
+---
+
+### Heap 17 — Promises
+**Ooga:** Promise to bring mammoth later. Pending, resolved, rejected. Then catch the meat. Finally clean bones. Promise all (many hunt together). IQ test for big brain hunters. Real API calls with fetch
+
+Rocks:
+- `154_Promise.js`, `155_Promise_REAL_API.js`, `156_Promise_REAL_API_PART2.js`
+- `157_Finally.js`, `158_Call_Py_Problem.js`
+- `159_Promise_ALL.js`, `160_Promise_IQ.js`
 
 ---
 
