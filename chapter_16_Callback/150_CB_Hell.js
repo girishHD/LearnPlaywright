@@ -37,6 +37,7 @@ function clickLogin(callback) {
 openBrowser(function () {
     goToLoginPage(function () {
         enterCredentials(function () {
+            Way
             clickLogin(function () {
                 console.log("Test Complete!");
             });

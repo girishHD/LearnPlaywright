@@ -1,54 +1,53 @@
-# Learn Playwright
+# LEARN PLAYWRIGHT
+## CAVEMAN GUIDE TO MAKE BROWSER DO THINGS
 
-A comprehensive, hands-on JavaScript learning resource designed for QA engineers and automation professionals looking to master Playwright test automation. This repository covers JavaScript fundamentals — from basic syntax to advanced concepts — with real-world QA/testing scenarios throughout.
+ME GRUNT. ME TEACH YOU MAKE COMPUTER BOX DO WHAT YOU WANT.
 
-Covers JavaScript fundamentals through **16 progressive chapters** with **160+ code examples**, real-world QA scenarios, and interview questions — building from basic syntax to advanced concepts needed for Playwright test automation.
-
----
-
-## Table of Contents
-
-- [About](#about)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Learning Roadmap](#learning-roadmap)
-- [Chapters](#chapters)
-- [Usage](#usage)
+This cave have many rocks with magic symbols. 16 heap of rocks. 160+ scratch marks. Make QA fire burn bright.
 
 ---
 
-## About
+## TABLE OF ROCKS
 
-This course is structured into **16 progressive chapters** that build JavaScript proficiency step-by-step. Each chapter focuses on a core concept and includes practical examples, interview questions (IQ), and real-world test automation scenarios. By the end, you'll have a solid foundation in JavaScript for writing Playwright tests.
-
-**Total files:** 160+ code examples across 16 chapters.
-
----
-
-## Prerequisites
-
-- [Node.js](https://nodejs.org/) (v14 or later)
-- A modern web browser (for `.html` examples)
-- Basic familiarity with the command line
+- [WHAT THIS CAVE ABOUT](#what-this-cave-about)
+- [WHAT YOU NEED BEFORE](#what-you-need-before)
+- [HOW START](#how-start)
+- [ROAD MAP (FOLLOW STONES)](#road-map-follow-stones)
+- [ALL HEAPS OF ROCKS](#all-heaps-of-rocks)
+- [HOW USE](#how-use)
 
 ---
 
-## Getting Started
+## WHAT THIS CAVE ABOUT
 
-1. **Clone the repository:**
+16 heap of rocks. Each heap teach new grunt. Many scratch marks. Many hard words from big brain hunters. End of cave you make browser go ZOOOM like mammoth.
+
+---
+
+## WHAT YOU NEED BEFORE
+
+- [Node.js](https://nodejs.org/) (fire stick v14 or newer)
+- Box with fire (for `.html` rocks)
+- Know how pointy stick work (command line)
+
+---
+
+## HOW START
+
+1. **Taka cave home:**
 
    ```bash
-   git clone <repository-url>
+   git clone <cave-address>
    cd LearnPlaywright
    ```
 
-2. **Run a JavaScript file:**
+2. **Make rock speak:**
 
    ```bash
    node chapter_01_Basics/01_Basics.js
    ```
 
-3. **Open HTML files** in your browser to view console output:
+3. **Open fire box see magic:**
 
    ```bash
    start chapter_03_Identifier_Literals/01_identifier_rules.html
@@ -56,133 +55,133 @@ This course is structured into **16 progressive chapters** that build JavaScript
 
 ---
 
-## Learning Roadmap
+## ROAD MAP (FOLLOW STONES)
 
-| Step | Chapter | Topic | Goal |
-|------|---------|-------|------|
-| 1 | 01 | Basics | Set up environment, run first JS code, understand hot code paths |
-| 2 | 02 | JS Concepts | Variable declaration with `var` |
-| 3 | 03 | Identifiers & Literals | Naming rules, comments, VS Code shortcuts |
-| 4 | 04 | JS Concepts II | `var`, `let`, `const`, hoisting, scope, functions |
-| 5 | 05 | Literals | Null/undefined, numbers, strings, template literals |
-| 6 | 06 | Operators | All JS operators with practical tasks |
-| 7 | 07 | If/Else | Conditional logic, real-world QA scenarios |
-| 8 | 08 | Switch | Switch-case flow control |
-| 9 | 09 | User Input | Prompt, readline, prompt-sync |
-| 10 | 10 | Loops | For/while/do-while, for...of/in, FizzBuzz |
-| 11 | 11 | Arrays | CRUD, search, transform, sort, slice, concat |
-| 12 | 12 | Functions | Function types, expressions, arrow functions, closures, IIFE, higher-order functions |
-| 13 | 13 | Strings | String properties, search/check, substring, transform, anagram, reverse |
-| 14 | 14 | Objects | Creation, primitive vs reference, destructuring, spread, getter/setter, interview questions |
-| 15 | 15 | 2D Arrays | Creating, accessing, iterating, transforming 2D arrays, real-world patterns, interview questions |
-| 16 | 16 | Callbacks | Synchronous vs asynchronous callbacks, callback hell, parameter passing, Playwright callback patterns |
-
----
-
-## Chapters
-
-### Chapter 01 — Basics
-**Topics:** Hello World, loops, environment setup, hot code paths
-
-Files: `01_Basics.js`, `02_JS.js`, `03_Verify_Setup.js`, `04_HotCode.js`
+| Step | Heap | Topic | Why Care? |
+|------|------|-------|-----------|
+| 1 | 01 | Basics | Make first grunt, see fire |
+| 2 | 02 | JS Concepts | `var` — make cave painting |
+| 3 | 03 | Identifiers & Literals | Name rocks, draw comments |
+| 4 | 04 | JS Concepts II | `var` `let` `const`, hoisting rock, scope cave, hunter tools |
+| 5 | 05 | Literals | No-thing vs something, number fingers, string vine, template stick |
+| 6 | 06 | Operators | Big rock, small rock, same rock? OOGA BOOGA logic |
+| 7 | 07 | If/Else | Cave say YES, cave say NO. Bug hunt scenarios |
+| 8 | 08 | Switch | Many tunnels, pick one |
+| 9 | 09 | User Input | Shout at cave, cave shout back |
+| 10 | 10 | Loops | Bang rock many time. FizzBuzz. Triangle rock |
+| 11 | 11 | Arrays | Many rocks in line. Add, find, throw away |
+| 12 | 12 | Functions | Make rock do thing many time. Arrow stick. IIFE magic |
+| 13 | 13 | Strings | Rope of symbols. Flip rope. Anagram hunt |
+| 14 | 14 | Objects | Cave painting with many details. Spread berry juice |
+| 15 | 15 | 2D Arrays | Rocks in line, lines in pile. Pyramid rock stacking |
+| 16 | 16 | Callbacks | Hunter call back when mammoth caught. Hell of callbacks (many mammoth) |
 
 ---
 
-### Chapter 02 — JavaScript Concepts
-**Topics:** Variable declaration with `var`
+## ALL HEAPS OF ROCKS
 
-Files: `05_JS_Basics.js`
+### Heap 01 — Basics
+**Ooga:** Hello World, loop around fire, sit, hot stone path
+
+Rocks: `01_Basics.js`, `02_JS.js`, `03_Verify_Setup.js`, `04_HotCode.js`
 
 ---
 
-### Chapter 03 — Identifier & Literals
-**Topics:** JavaScript identifier rules, naming conventions, comments, VS Code keyboard shortcuts (Windows & Mac)
+### Heap 02 — JavaScript Concepts
+**Ooga:** `var` — paint variable on cave wall
 
-Files:
+Rocks: `05_JS_Basics.js`
+
+---
+
+### Heap 03 — Identifier & Literals
+**Ooga:** Rock naming rules, good grunt bad grunt, cave drawings, keyboard stick shortcuts (Windows & Mac)
+
+Rocks:
 - `06_Identifiers_Rules.js`, `07_Identifier_Part2.js`, `08_Comments.js`
 - `01_identifier_rules.html`
 - `VS_Code_Keyborad_Shortcut_windows.md`, `VS_Code_Keyborad_Shortcut_mac.md`
 
 ---
 
-### Chapter 04 — JavaScript Concepts
-**Topics:** Variable declarations (`var`, `let`, `const`), functions, hoisting, function scope vs block scope
+### Heap 04 — JavaScript Concepts
+**Ooga:** Variable declare (`var`, `let`, `const`), hunter tools, hoisting rock, function cave vs block cave
 
-Files: `09_var_let_const.js` – `21_Jr_Qa.js` (13 files)
-
----
-
-### Chapter 05 — Literal
-**Topics:** Literals, null vs undefined, numbers (all types), strings, template literals, backtick vs single vs double quotes
-
-Files: `22_Literals.js` – `29_Backtick_single_double.js` (8 files)
+Rocks: `09_var_let_const.js` – `21_Jr_Qa.js` (13 rocks)
 
 ---
 
-### Chapter 06 — Operator
-**Topics:** Assignment, arithmetic, modulus, exponentiation, compound, comparison (strict/loose), logical, string concatenation, ternary, typeof, increment/decrement, nullish coalescing, interview questions, practical tasks
+### Heap 05 — Literal
+**Ooga:** Literals, nothing vs no-thing, number fingers (all types), string vine, template stick, backtick ` ` vs ' ' vs " "
 
-Files: `30_Assignment_OP.js` – `47_Advance_ID.js`, `Task_1.js`, `Task_2.js` (20 files)
-
----
-
-### Chapter 07 — If/Else
-**Topics:** Conditional logic with real-world QA/test automation scenarios — bug severity, health reporter, login lockout, pass/fail verdict, HTTP status codes, grade calculation, leap year detection
-
-Files: `48_IF_ELSE.js` – `58_LEAP_YEAR.js`, `Bug_Severity.js`, `Health_Reporter.js`, `Login_Lockout.js`, `Pass_Fail_Verdict.js`, `Status_Code.js` (16 files)
+Rocks: `22_Literals.js` – `29_Backtick_single_double.js` (8 rocks)
 
 ---
 
-### Chapter 08 — Switch Statement
-**Topics:** Switch-case flow control, fall-through (no break), default case, grouping cases, real-time QA examples, interview questions
+### Heap 06 — Operator
+**Ooga:** Give rock, count rock, smash rock, compare rock (strict/loose), logi-cave, string vine tie, ternary fork, typeof grunt, ++ --, ?? (cave empty?), big brain questions, tasks
 
-Files: `59_Switch.js` – `67_IQ4.js` (9 files)
-
----
-
-### Chapter 09 — User Input
-**Topics:** Browser prompt, Node.js readline module, prompt-sync package
-
-Files: `68_User_Input.js`, `69_Node_readline.js`, `70_prompy_sync.js`
+Rocks: `30_Assignment_OP.js` – `47_Advance_ID.js`, `Task_1.js`, `Task_2.js` (20 rocks)
 
 ---
 
-### Chapter 10 — Loops
-**Topics:** `for`, `while`, `do-while` loops, `for...of` / `for...in`, FizzBuzz, triangle classifier, interview questions
+### Heap 07 — If/Else
+**Ooga:** Cave think. Bug big? Health good? Login lock? Pass/fail? Status code? Grade? Leap year?
 
-Files: `71_For_Loop.js` – `82_IQ.js`, `FizzBuzz.js`, `Trianagle_Clasiifier.js` (14 files)
-
----
-
-### Chapter 11 — Arrays
-**Topics:** Array creation, element access, adding/removing elements, searching, iteration, transformation (map/filter/reduce), sorting, slicing, concatenation, type checking, real-world example
-
-Files: `83_Arrays.js` – `95_Array_Checking.js` (13 files)
+Rocks: `48_IF_ELSE.js` – `58_LEAP_YEAR.js`, `Bug_Severity.js`, `Health_Reporter.js`, `Login_Lockout.js`, `Pass_Fail_Verdict.js`, `Status_Code.js` (16 rocks)
 
 ---
 
-### Chapter 12 — Functions
-**Topics:** Function types (basic, parameterized, return types), function expressions, arrow functions, IIFE, default parameters, rest parameters, scope, closures, higher-order functions, pure functions, real-world API examples, interview questions
+### Heap 08 — Switch Statement
+**Ooga:** Choose tunnel. Fall through (no break). Default cave. Group hunt. QA stories. Big brain questions
 
-Files: `96_Functions.js` – `117_Pure_Fn.js` (22 files)
+Rocks: `59_Switch.js` – `67_IQ4.js` (9 rocks)
 
 ---
 
-### Chapter 13 — Strings
-**Topics:** String creation, properties, search/check methods, substring extraction, transformation, anagram detection, string reversal, interview questions
+### Heap 09 — User Input
+**Ooga:** Browser shout, Node.js listen stick, prompt-sync magic berry
 
-Files:
+Rocks: `68_User_Input.js`, `69_Node_readline.js`, `70_prompy_sync.js`
+
+---
+
+### Heap 10 — Loops
+**Ooga:** `for` (do many), `while` (do until), `do-while` (do first think later), `for...of` / `for...in`, FizzBuzz, triangle rock, big brain questions
+
+Rocks: `71_For_Loop.js` – `82_IQ.js`, `FizzBuzz.js`, `Trianagle_Clasiifier.js` (14 rocks)
+
+---
+
+### Heap 11 — Arrays
+**Ooga:** Make line of rocks, poke rock, add rock, remove rock, hunt rock, walk line, transform line (map/filter/reduce), sort big to small, slice rock, tie lines, check rock type, real hunt
+
+Rocks: `83_Arrays.js` – `95_Array_Checking.js` (13 rocks)
+
+---
+
+### Heap 12 — Functions
+**Ooga:** Hunter types (basic, with meat, bring meat back), hunter expressions, arrow stick, IIFE (hunt now!), default meat, rest meat, scope cave, closure (remember meat), high hunter (hunter who make hunter), pure hunter, real API hunt, big brain questions
+
+Rocks: `96_Functions.js` – `117_Pure_Fn.js` (22 rocks)
+
+---
+
+### Heap 13 — Strings
+**Ooga:** Make rope, rope length, search/check rope, cut rope piece, twist rope, anagram hunt, reverse rope, big brain questions
+
+Rocks:
 - `118_Strings.js`, `119_String_Properties.js`, `120_Search_Check_Str.js`
 - `121_Substring.js`, `122_Transform_Str.js`, `123_SC.js`
-- `Anagram.js`, `String_Reverse.js`
+- `Anagram.js`, `String_Reverse.js`, `Pallidrome_String.js`
 - `javascript_stringcheatsheet.md`
 
 ---
 
-### Chapter 14 — Objects
-**Topics:** Object creation, primitive vs reference types, object properties & methods, destructuring, spread operator, getter/setter methods, real-world examples, interview questions
+### Heap 14 — Objects
+**Ooga:** Make cave painting. Primitive rock vs pointing rock. Painting details & hunter tricks. Destructure (break painting). Spread berry juice. Get/set (look/touch). Real hunt. Big brain questions
 
-Files:
+Rocks:
 - `124_Objects.js`, `125_Objects2.js`, `126_Objects_Creation.js`, `127_Objects_REAL.js`
 - `128_Primitive_Ref.js`, `129_Ob_Examples.js`, `130_IQ.js`, `131_Object_Fn.js`
 - `132_Obj_Decon.js`, `133_Spread.js`, `134_Objects_GET_SET_Methods.js`
@@ -190,20 +189,20 @@ Files:
 
 ---
 
-### Chapter 15 — 2D Array
-**Topics:** Creating, accessing, iterating, and transforming 2D arrays; real-world QA patterns, pattern printing (right-angle, reverse, pyramid), interview questions
+### Heap 15 — 2D Array
+**Ooga:** Make line of lines. Touch rock in line in line. Walk all. Transform. Real QA hunt. Print right-angle rock, reverse rock, pyramid rock. Big brain questions
 
-Files:
+Rocks:
 - `138_2D_Array.js`, `139_2d.js`, `140_REAL.js`
 - `141_2D_Array_Fn.js`, `142_IQ_Right_Pattern_Py.js`
 - `Print_Reverse_Pattern.js`, `Pyramid_Pattern.js`
 
 ---
 
-### Chapter 16 — Callback
-**Topics:** Synchronous & asynchronous callbacks, callback functions as parameters, callback hell, nested callback steps, returning values from callbacks, Playwright callback integration patterns, real-world automation scenarios
+### Heap 16 — Callback
+**Ooga:** Hunt now, tell me later (sync). Hunt later, tell me when done (async). Hunter that take hunter. Hell of callbacks (hunt in hunt in hunt). Many step hunt. Return meat from callback. Playwright cave patterns. Real hunt scenarios
 
-Files:
+Rocks:
 - `143_Callback.js`, `144_CB.js`, `145_CB_Fn.js`, `146_PW_CB.js`
 - `147_JS_CB.js`, `148_Sync_CB.js`, `149_Async_CB.js`
 - `150_CB_Hell.js`, `151_CB_Hell_20_Steps.js`
@@ -211,22 +210,24 @@ Files:
 
 ---
 
-## Usage
+## HOW USE
 
-Run any JavaScript file with Node.js:
+Make rock talk with Node.js:
 
 ```bash
 node chapter_01_Basics/01_Basics.js
 ```
 
-Open HTML files in a browser to view console output:
+Open fire box for HTML rocks:
 
 ```bash
 start chapter_03_Identifier_Literals/01_identifier_rules.html
 ```
 
-Install optional packages (for chapter 09 prompt-sync example):
+Get magic berry (for heap 09 prompt-sync):
 
 ```bash
 npm install prompt-sync
 ```
+
+**UGA BUGA. YOU CAVEMAN NOW. GO MAKE BROWSER FEAR YOU.**
