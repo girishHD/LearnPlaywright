@@ -77,6 +77,7 @@ This cave have many rocks with magic symbols. 18 heap of rocks. 177+ scratch mar
 | 16 | 16 | Callbacks | Hunter call back when mammoth caught. Hell of callbacks (many mammoth) |
 | 17 | 17 | Promises | Promise mammoth later. Then catch. Finally eat. All wait together |
 | 18 | 18 | Async/Await | Async speak, await mammoth. No more callback hell. Parallel hunt. Big brain IQ |
+| 19 | 19 | Playwright Basics | Make browser do things. Install fire stick. First automation grunt |
 
 ---
 
@@ -232,6 +233,14 @@ Rocks:
 
 ---
 
+### Heap 19 — Playwright Basics
+**Ooga:** Install fire stick, launch browser, first automation grunt, PDF guide from wise hunter
+
+Rocks:
+- `package.json`, `sdetlive.pdf` (wise hunter scroll)
+
+---
+
 ## HOW USE
 
 Make rock talk with Node.js:
@@ -250,6 +259,14 @@ Get magic berry (for heap 09 prompt-sync):
 
 ```bash
 npm install prompt-sync
+```
+
+Make browser do things (heap 19):
+
+```bash
+cd chapter_19_Playwright_Basics
+npm install
+npx playwright install
 ```
 
 **UGA BUGA. YOU CAVEMAN NOW. GO MAKE BROWSER FEAR YOU.**
