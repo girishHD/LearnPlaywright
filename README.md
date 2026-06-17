@@ -3,7 +3,7 @@
 
 ME GRUNT. ME TEACH YOU MAKE COMPUTER BOX DO WHAT YOU WANT.
 
-This cave have many rocks with magic symbols. 17 heap of rocks. 170+ scratch marks. Make QA fire burn bright.
+This cave have many rocks with magic symbols. 18 heap of rocks. 177+ scratch marks. Make QA fire burn bright.
 
 ---
 
@@ -20,7 +20,7 @@ This cave have many rocks with magic symbols. 17 heap of rocks. 170+ scratch mar
 
 ## WHAT THIS CAVE ABOUT
 
-17 heap of rocks. Each heap teach new grunt. Many scratch marks. Many hard words from big brain hunters. End of cave you make browser go ZOOOM like mammoth.
+18 heap of rocks. Each heap teach new grunt. Many scratch marks. Many hard words from big brain hunters. End of cave you make browser go ZOOOM like mammoth.
 
 ---
 
@@ -76,6 +76,7 @@ This cave have many rocks with magic symbols. 17 heap of rocks. 170+ scratch mar
 | 15 | 15 | 2D Arrays | Rocks in line, lines in pile. Pyramid rock stacking |
 | 16 | 16 | Callbacks | Hunter call back when mammoth caught. Hell of callbacks (many mammoth) |
 | 17 | 17 | Promises | Promise mammoth later. Then catch. Finally eat. All wait together |
+| 18 | 18 | Async/Await | Async speak, await mammoth. No more callback hell. Parallel hunt. Big brain IQ |
 
 ---
 
@@ -218,6 +219,16 @@ Rocks:
 - `154_Promise.js`, `155_Promise_REAL_API.js`, `156_Promise_REAL_API_PART2.js`
 - `157_Finally.js`, `158_Call_Py_Problem.js`
 - `159_Promise_ALL.js`, `160_Promise_IQ.js`
+
+---
+
+### Heap 18 — Async/Await
+**Ooga:** Async function, await mammoth, try/catch/finally, no more hell of callbacks, sequential tasks, parallel API hunt, big brain IQ
+
+Rocks:
+- `161_Async.js`, `162_Async_P2.js`, `163_PyDoom.js`
+- `164_Async_Ex.js`, `165_AA_Seq.js`, `166_AA_P.js`
+- `1667IQ.js`
 
 ---
 
