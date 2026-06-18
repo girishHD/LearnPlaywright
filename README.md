@@ -234,10 +234,12 @@ Rocks:
 ---
 
 ### Heap 19 — Playwright Basics
-**Ooga:** Install fire stick, launch browser, first automation grunt, PDF guide from wise hunter
+**Ooga:** Install fire stick, launch browser, first automation grunt, PDF guide from wise hunter, config cave, test hunts
 
 Rocks:
-- `package.json`, `sdetlive.pdf` (wise hunter scroll)
+- `package.json`, `playwright.config.ts`, `.gitignore`
+- `sdetlive.pdf`, `caveman.pdf` (wise hunter scrolls)
+- `tests/example.spec.ts`, `tests/tta-cart.spec.ts`, `tests/codegen-tta-cart.spec.ts`
 
 ---
 
