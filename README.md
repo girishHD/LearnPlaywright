@@ -239,7 +239,8 @@ Rocks:
 Rocks:
 - `package.json`, `playwright.config.ts`, `.gitignore`
 - `sdetlive.pdf`, `caveman.pdf` (wise hunter scrolls)
-- `tests/example.spec.ts`, `tests/example1.spec.ts`, `tests/tta-cart.spec.ts`, `tests/codegen-tta-cart.spec.ts`
+- `tests/example.spec.ts`, `tests/example1.spec.ts`
+- `tests/valid-scenario-tta-cart.spec.ts`, `tests/invalid-scenario-tta-cart.spec.ts`
 
 ---
 
