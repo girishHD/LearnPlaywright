@@ -3,7 +3,7 @@
 
 ME GRUNT. ME TEACH YOU MAKE COMPUTER BOX DO WHAT YOU WANT.
 
-This cave have many rocks with magic symbols. 18 heap of rocks. 177+ scratch marks. Make QA fire burn bright.
+This cave have many rocks with magic symbols. 20 heap of rocks. 200+ scratch marks. Make QA fire burn bright.
 
 ---
 
@@ -78,10 +78,13 @@ This cave have many rocks with magic symbols. 18 heap of rocks. 177+ scratch mar
 | 17 | 17 | Promises | Promise mammoth later. Then catch. Finally eat. All wait together |
 | 18 | 18 | Async/Await | Async speak, await mammoth. No more callback hell. Parallel hunt. Big brain IQ |
 | 19 | 19 | Playwright Basics | Make browser do things. Install fire stick. First automation grunt |
+| 20 | 20 | TypeScript Basics | Strong types, interfaces, generics. TypeScript make code less confuse |
 
 ---
 
 ## ALL HEAPS OF ROCKS
+
+19 heap of rocks listed above. 1 more heap below.
 
 ### Heap 01 — Basics
 **Ooga:** Hello World, loop around fire, sit, hot stone path
@@ -241,6 +244,14 @@ Rocks:
 - `sdetlive.pdf`, `caveman.pdf` (wise hunter scrolls)
 - `tests/example.spec.ts`, `tests/example1.spec.ts`
 - `tests/valid-scenario-tta-cart.spec.ts`, `tests/invalid-scenario-tta-cart.spec.ts`
+
+---
+
+### Heap 20 — TypeScript Basics
+**Ooga:** Strong types, type safety, interfaces, types, generics, union types, type guards, utility types. Make code speak mammoth language. TypeScript make browser less confuse.
+
+Rocks:
+- `EXPORT_IMPORT/` (module system, export/import patterns)
 
 ---
 
