@@ -248,10 +248,16 @@ Rocks:
 ---
 
 ### Heap 20 — TypeScript Basics
-**Ooga:** Strong types, type safety, interfaces, types, generics, union types, type guards, utility types. Make code speak mammoth language. TypeScript make browser less confuse.
+**Ooga:** Strong types, type safety, interfaces, types, generics, union types, type guards, utility types, module system (import/export). Make code speak mammoth language. TypeScript make browser less confuse.
 
-Rocks:
-- `EXPORT_IMPORT/` (module system, export/import patterns)
+Rocks (JavaScript modules — ES6 import/export):
+- `utils.js` — Base URL & uppercase formatter (named exports)
+- `testutils.js` — Test URL & test name formatter (named exports)
+- `logger.js` — Logging with default + named exports
+- `EXPORT_IMPORT/168_EXPORT_IMPORT.js` — Basic named import
+- `EXPORT_IMPORT/169_Utils.js` — Import with aliases (`as`)
+- `EXPORT_IMPORT/170_Logger.js` — Default import
+- `EXPORT_IMPORT/ExplainDefault.md` — Default export explained
 
 ---
 
