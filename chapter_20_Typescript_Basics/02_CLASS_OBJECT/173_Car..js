@@ -1,0 +1,21 @@
+class Car {
+    // CAB:
+    // Constructor
+    constructor(name_given_during_obj_creation) {
+        this.name = name_given_during_obj_creation;
+    }
+
+    // Attributes
+    // name is attribute
+
+    // Behaviour
+    drive() {
+        console.log("I am driving", this.name);
+    }
+}
+
+const tesla = new Car("Model S");
+tesla.drive();
+
+const i10 = new Car("Grand i10");
+i10.drive();

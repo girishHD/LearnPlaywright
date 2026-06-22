@@ -248,16 +248,28 @@ Rocks:
 ---
 
 ### Heap 20 — TypeScript Basics
-**Ooga:** Strong types, type safety, interfaces, types, generics, union types, type guards, utility types, module system (import/export). Make code speak mammoth language. TypeScript make browser less confuse.
+**Ooga:** Strong types, type safety, interfaces, types, generics, union types, type guards, utility types, module system (import/export), classes & objects. Make code speak mammoth language. TypeScript make browser less confuse.
 
-Rocks (JavaScript modules — ES6 import/export):
+Rocks:
+**Module files:**
 - `utils.js` — Base URL & uppercase formatter (named exports)
 - `testutils.js` — Test URL & test name formatter (named exports)
 - `logger.js` — Logging with default + named exports
-- `EXPORT_IMPORT/168_EXPORT_IMPORT.js` — Basic named import
-- `EXPORT_IMPORT/169_Utils.js` — Import with aliases (`as`)
-- `EXPORT_IMPORT/170_Logger.js` — Default import
-- `EXPORT_IMPORT/ExplainDefault.md` — Default export explained
+
+**01_EXPORT_IMPORT/ (ES6 import/export):**
+- `168_EXPORT_IMPORT.js` — Basic named import
+- `169_Utils.js` — Import with aliases (`as`)
+- `170_Logger.js` — Default import
+- `ExplainDefault.md` — Default vs named exports explained
+
+**02_CLASS_OBJECT/ (Classes & Objects):**
+- `171_Class_Object.js`, `172_Class_Object2.js` — Class basics & constructors
+- `173_Car.js` — Car class example
+- `174_REAL_Browser.js` — Real browser automation with class
+- `175_IQ.js` — Big brain questions
+- `176_Private_Public.js` — Private/public fields
+- `177_Static.js`, `178_Static2.js` — Static methods & properties
+- `Calculator.js`, `Student.js` — More class examples
 
 ---
 
