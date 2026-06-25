@@ -77,7 +77,7 @@ This repository contains 20 chapters with 200+ exercises designed to take you fr
 | 17 | 17 | Promises | Pending/fulfilled/rejected, chaining, Promise.all |
 | 18 | 18 | Async/Await | Sequential/parallel execution, error handling |
 | 19 | 19 | Playwright Basics | Browser automation, test structure, config |
-| 20 | 20 | TypeScript Basics | Types, interfaces, generics, modules |
+| 20 | 20 | TypeScript Basics | Types, interfaces, generics, modules, OOP |
 
 ---
 
@@ -245,7 +245,7 @@ Files:
 ---
 
 ### Chapter 20 — TypeScript Basics
-**Topics:** Strong types, type safety, interfaces, types, generics, union types, type guards, utility types, module system (import/export), classes & objects
+**Topics:** Strong types, type safety, interfaces, types, generics, union types, type guards, utility types, module system (import/export), classes & objects, encapsulation, inheritance, polymorphism
 
 Files:
 **Module files:**
@@ -267,6 +267,26 @@ Files:
 - `176_Private_Public.js` — Private/public fields
 - `177_Static.js`, `178_Static2.js` — Static methods & properties
 - `Calculator.js`, `Student.js` — More class examples
+
+**03_ENCAPSULATION/ (Data Hiding):**
+- `179_Ecap.js` — Encapsulation basics with private fields
+- `180_REAL_EXAMPLE.js` — Real-world encapsulation (bank account)
+- `181_Ecap_Car.js` — Car encapsulation example
+- `182_Ecap_Bank.js` — Bank account with getters/setters
+- `EX1.js`–`EX5.js` — Encapsulation exercises
+
+**04_INHERITANCE/ (Code Reuse):**
+- `183_Single_Inheritance.js` — Single inheritance basics
+- `184_SI_Example.js` — Single inheritance example
+- `185_Single_Inheritance_Con.js` — Inheritance with constructors
+- `186_IQ.js`, `187_IQ2.js` — Inheritance interview questions
+- `188_REAL_PageObject_Model.js` — POM pattern via inheritance
+- `189_Multiple_Inheritance.js` — Using mixins for multiple inheritance
+- `190_Multi_Level_Inheritance.js` — Multi-level inheritance chain
+- `191_Hierarchical_inheritance.js` — One parent, many children
+
+**05_Polymorphism/ (Many Forms):**
+- `192_Method_Overriding.js` — Method overriding in subclasses
 
 ---
 
