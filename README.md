@@ -2,7 +2,7 @@
 
 A comprehensive guide to browser automation with Playwright, covering JavaScript fundamentals through advanced testing concepts.
 
-This repository contains 25 chapters with exercises designed to take you from programming basics to writing real Playwright test automation. Each chapter includes its own README with detailed explanations of every file.
+This repository contains 27 chapters with exercises designed to take you from programming basics to writing real Playwright test automation. Each chapter includes its own README with detailed explanations of every file.
 
 ---
 
@@ -19,7 +19,7 @@ This repository contains 25 chapters with exercises designed to take you from pr
 
 ## About
 
-25 chapters covering JavaScript fundamentals and Playwright testing. Each chapter builds on the previous, starting with basic programming concepts and culminating in Playwright browser automation and Object-Oriented Programming.
+27 chapters covering JavaScript fundamentals, TypeScript, and Playwright testing. Each chapter builds on the previous, starting with basic programming concepts and culminating in Playwright browser automation, Object-Oriented Programming, and TypeScript type safety.
 
 ---
 
@@ -83,6 +83,8 @@ This repository contains 25 chapters with exercises designed to take you from pr
 | 23 | 23 | Inheritance | extends, super(), single/multi-level/hierarchical |
 | 24 | 24 | Polymorphism | Method overriding, dynamic behavior |
 | 25 | 25 | OOP Interview Questions | OOP exercises, real-world examples |
+| 26 | 26 | TypeScript | Type annotations, primitives, functions, void/never |
+| 27 | 27 | TypeScript Interfaces | Interface definition, optional props, readonly |
 
 ---
 
@@ -321,6 +323,33 @@ Files:
 - `Calculator.js` — Calculator class with arithmetic operations
 - `Student.js` — Student class with name/grade
 - `EX1.js`–`EX5.js` — Encapsulation practice exercises
+
+---
+
+### Chapter 26 — TypeScript
+**Topics:** Type annotations, primitives, arrays, functions, void, never, unknown
+
+Files:
+- `193_TS.js` — Plain JS comparison before TypeScript
+- `194_TS_HelloWorld.js` / `.ts` — JS vs TS file comparison
+- `195_TS_Part1.ts` — Basic function with void return
+- `196_TS_Part2.ts` — Primitive types, arrays, any, unknown
+- `197_TS_Part3.ts` — Type guards, function/Object annotations
+- `198_TS_Part4.ts` — void and never return types
+- `199_IQ.ts` — Interview-style typed functions
+- `200_IQ2.ts` — Array filtering with typed functions
+- `Type_Annotation_TS.md` — Comprehensive type annotation reference
+
+---
+
+### Chapter 27 — TypeScript Interface
+**Topics:** Interface definition, optional properties, readonly fields, typed objects
+
+Files:
+- `201_IF.ts` — Basic interface (TestCase)
+- `202_IF_Part2.ts` — Interface with optional properties
+- `203_IF_READONLY.ts` — Interface with readonly fields
+- `204_IF_ReadOnly.ts` — Readonly interface and ReadonlyArray
 
 ---
 

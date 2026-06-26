@@ -76,3 +76,5 @@ Testing needs organization:
 | 23 | Inheritance | Code reuse |
 | 24 | Polymorphism | Method overriding |
 | 25 | OOP Interview Qs | OOP exercises |
+| 26 | TypeScript | Type annotations |
+| 27 | TypeScript Interfaces | Interface definition |
