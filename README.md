@@ -2,7 +2,7 @@
 
 A comprehensive guide to browser automation with Playwright, covering JavaScript fundamentals through advanced testing concepts.
 
-This repository contains 20 chapters with 200+ exercises designed to take you from programming basics to writing real Playwright test automation. Each chapter includes its own README with detailed explanations of every file.
+This repository contains 25 chapters with exercises designed to take you from programming basics to writing real Playwright test automation. Each chapter includes its own README with detailed explanations of every file.
 
 ---
 
@@ -19,7 +19,7 @@ This repository contains 20 chapters with 200+ exercises designed to take you fr
 
 ## About
 
-20 chapters covering JavaScript fundamentals and Playwright testing. Each chapter builds on the previous, starting with basic programming concepts and culminating in Playwright browser automation.
+25 chapters covering JavaScript fundamentals and Playwright testing. Each chapter builds on the previous, starting with basic programming concepts and culminating in Playwright browser automation and Object-Oriented Programming.
 
 ---
 
@@ -77,7 +77,12 @@ This repository contains 20 chapters with 200+ exercises designed to take you fr
 | 17 | 17 | Promises | Pending/fulfilled/rejected, chaining, Promise.all |
 | 18 | 18 | Async/Await | Sequential/parallel execution, error handling |
 | 19 | 19 | Playwright Basics | Browser automation, test structure, config |
-| 20 | 20 | TypeScript Basics | Types, interfaces, generics, modules, OOP |
+| 20 | 20 | TypeScript Basics | Types, interfaces, generics, modules |
+| 21 | 21 | Classes & Objects | OOP blueprints, constructors, methods, static, private |
+| 22 | 22 | Encapsulation | Data hiding, private fields, getters/setters |
+| 23 | 23 | Inheritance | extends, super(), single/multi-level/hierarchical |
+| 24 | 24 | Polymorphism | Method overriding, dynamic behavior |
+| 25 | 25 | OOP Interview Questions | OOP exercises, real-world examples |
 
 ---
 
@@ -245,10 +250,9 @@ Files:
 ---
 
 ### Chapter 20 — TypeScript Basics
-**Topics:** Strong types, type safety, interfaces, types, generics, union types, type guards, utility types, module system (import/export), classes & objects, encapsulation, inheritance, polymorphism
+**Topics:** Strong types, type safety, interfaces, types, generics, union types, type guards, utility types, module system (import/export)
 
 Files:
-**Module files:**
 - `utils.js` — Base URL & uppercase formatter (named exports)
 - `testutils.js` — Test URL & test name formatter (named exports)
 - `logger.js` — Logging with default + named exports
@@ -259,34 +263,64 @@ Files:
 - `170_Logger.js` — Default import
 - `ExplainDefault.md` — Default vs named exports explained
 
-**02_CLASS_OBJECT/ (Classes & Objects):**
-- `171_Class_Object.js`, `172_Class_Object2.js` — Class basics & constructors
-- `173_Car.js` — Car class example
-- `174_REAL_Browser.js` — Real browser automation with class
-- `175_IQ.js` — Interview questions
-- `176_Private_Public.js` — Private/public fields
-- `177_Static.js`, `178_Static2.js` — Static methods & properties
-- `Calculator.js`, `Student.js` — More class examples
+---
 
-**03_ENCAPSULATION/ (Data Hiding):**
-- `179_Ecap.js` — Encapsulation basics with private fields
-- `180_REAL_EXAMPLE.js` — Real-world encapsulation (bank account)
-- `181_Ecap_Car.js` — Car encapsulation example
-- `182_Ecap_Bank.js` — Bank account with getters/setters
-- `EX1.js`–`EX5.js` — Encapsulation exercises
+### Chapter 21 — Classes & Objects
+**Topics:** Class blueprints, constructors, methods, static members, private fields, real-world browser automation examples
 
-**04_INHERITANCE/ (Code Reuse):**
-- `183_Single_Inheritance.js` — Single inheritance basics
-- `184_SI_Example.js` — Single inheritance example
-- `185_Single_Inheritance_Con.js` — Inheritance with constructors
+Files:
+- `171_Class_Object.js` — Basic `Person` class with constructor and method
+- `172_Class_Object2.js` — Another class example for reinforcement
+- `173_Car..js` — Car class blueprint with properties
+- `174_REAL_Browser.js` — Real test automation `TestCase` class
+- `175_IQ.js` — OOP interview questions
+- `176_Private_Public.js` — Private fields with `#` syntax
+- `177_Static.js` — Static properties and methods
+- `178_Static2.js` — Additional static member examples
+
+---
+
+### Chapter 22 — Encapsulation
+**Topics:** Data hiding, private fields, getters/setters, real-world banking and car examples
+
+Files:
+- `179_Ecap.js` — Encapsulation basics with private balance
+- `180_REAL_EXAMPLE.js` — Real-world banking with deposit/withdraw
+- `181_Ecap_Car.js` — Car class with private fuel level
+- `182_Ecap_Bank.js` — Bank account with getter/setter validation
+
+---
+
+### Chapter 23 — Inheritance
+**Topics:** Code reuse with `extends` and `super()`, single/multi-level/hierarchical inheritance, Page Object Model, mixins
+
+Files:
+- `183_Single_Inheritance.js` — Basic inheritance, `Child` extends `Parent`
+- `184_SI_Example.js` — Another single inheritance example
+- `185_Single_Inheritance_Con.js` — Inheritance with constructors and `super()`
 - `186_IQ.js`, `187_IQ2.js` — Inheritance interview questions
 - `188_REAL_PageObject_Model.js` — POM pattern via inheritance
-- `189_Multiple_Inheritance.js` — Using mixins for multiple inheritance
-- `190_Multi_Level_Inheritance.js` — Multi-level inheritance chain
+- `189_Multiple_Inheritance.js` — Mixins as multiple inheritance alternative
+- `190_Multi_Level_Inheritance.js` — Grandparent → Parent → Child chain
 - `191_Hierarchical_inheritance.js` — One parent, many children
 
-**05_Polymorphism/ (Many Forms):**
-- `192_Method_Overriding.js` — Method overriding in subclasses
+---
+
+### Chapter 24 — Polymorphism
+**Topics:** Method overriding, dynamic behavior, same method name with different implementations
+
+Files:
+- `192_Method_Overriding.js` — Child class redefines a parent method
+
+---
+
+### Chapter 25 — OOP Interview Questions
+**Topics:** OOP practice exercises, real-world class design, encapsulation exercises
+
+Files:
+- `Calculator.js` — Calculator class with arithmetic operations
+- `Student.js` — Student class with name/grade
+- `EX1.js`–`EX5.js` — Encapsulation practice exercises
 
 ---
 
