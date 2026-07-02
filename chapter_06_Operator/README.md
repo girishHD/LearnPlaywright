@@ -1,5 +1,9 @@
 # Chapter 06 - Operators (Tools for Manipulating Values)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -98,3 +102,11 @@ Operators are the tools that make computation possible. Without them, programs c
 | Ternary | A three-part conditional expression |
 | Modulus | The remainder after division |
 | Increment | Increase a value by one |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

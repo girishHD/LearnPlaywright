@@ -1,5 +1,9 @@
 # Chapter 07 - If/Else (Conditional Logic)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -93,3 +97,11 @@ Every decision in a program is an if-else. QA/testing is fundamentally about che
 | Else If | Check an alternative condition |
 | HTTP Status | Server response code indicating request outcome |
 | Bug Severity | Classification of how severe a defect is |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

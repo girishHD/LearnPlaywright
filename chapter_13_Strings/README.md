@@ -1,5 +1,9 @@
 # Chapter 13 - Strings (Working with Text)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -90,3 +94,11 @@ Testing involves strings everywhere — page titles, error messages, URLs, butto
 | Trim | Remove surrounding whitespace |
 | Anagram | Same letters rearranged into different order |
 | Palindrome | String that reads the same forward and backward |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

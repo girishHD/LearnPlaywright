@@ -1,5 +1,9 @@
 # Chapter 24 - Polymorphism (Many Forms)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -48,3 +52,11 @@ Polymorphism enables flexible test code:
 | Polymorphism | Same interface, different implementations |
 | Method Overriding | Child class redefines a parent method |
 | Dynamic Dispatch | JavaScript decides which method to call at runtime |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

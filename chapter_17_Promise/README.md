@@ -1,5 +1,9 @@
 # Chapter 17 - Promises (Handling Asynchronous Operations Cleanly)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -81,3 +85,11 @@ Testing involves many asynchronous operations: page loads, API calls, database q
 | Then | Handle fulfillment |
 | Catch | Handle rejection |
 | Finally | Execute regardless of outcome |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

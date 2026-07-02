@@ -1,5 +1,9 @@
 # Chapter 05 - Literals (Raw Data Types in JavaScript)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -76,3 +80,11 @@ Every value in JavaScript has a type. Using the wrong type causes errors. Templa
 | Null | An intentional empty value |
 | Undefined | A variable without an assigned value |
 | Template Literal | A string with embedded expressions using backticks |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

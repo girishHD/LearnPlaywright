@@ -1,5 +1,9 @@
 # Chapter 02 - JavaScript Concepts (Variable Declaration with `var`)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -43,3 +47,11 @@ Computers excel at remembering information. Variables are the mechanism that all
 | Variable | A named container for a value |
 | Reassign | Replace the current value with a new one |
 | Log | Output a value to the console for inspection |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

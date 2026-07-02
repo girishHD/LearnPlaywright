@@ -1,5 +1,9 @@
 # Chapter 03 - Identifiers & Literals (Naming Things in Code)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -64,3 +68,11 @@ Good naming makes code readable and maintainable. Descriptive names communicate 
 | Comment | Human-readable text ignored by the interpreter |
 | CamelCase | Words joined with internal capitalization after the first word |
 | PascalCase | Words joined with each word capitalized |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

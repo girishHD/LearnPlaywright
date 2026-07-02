@@ -1,5 +1,9 @@
 # Chapter 04 - JavaScript Concepts (Variable Declarations and Hoisting)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -87,3 +91,11 @@ Understanding hoisting prevents confusion about execution order and variable ava
 | Hoisting | The behavior of moving declarations to the top of their scope |
 | TDZ | Temporal Dead Zone — time between hoisting and initialization |
 | Block | Code enclosed in `{}` |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

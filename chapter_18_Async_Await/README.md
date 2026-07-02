@@ -1,5 +1,9 @@
 # Chapter 18 - Async/Await (Writing Asynchronous Code Like Synchronous Code)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -106,3 +110,11 @@ Every Playwright command needs `await`. This is the most important concept for P
 | Finally | Execute code regardless of success or failure |
 | Sequential | One operation after another, order matters |
 | Parallel | Multiple operations running simultaneously |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

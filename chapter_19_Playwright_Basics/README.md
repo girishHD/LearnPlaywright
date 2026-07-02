@@ -1,5 +1,9 @@
 # Chapter 19 - Playwright Basics (Browser Automation)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -96,3 +100,11 @@ This is the practical application of everything learned in previous chapters. In
 | Parallel | Running multiple tests simultaneously |
 | Valid | Happy path — expected successful flow |
 | Invalid | Sad path — testing error handling |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

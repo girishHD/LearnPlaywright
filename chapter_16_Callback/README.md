@@ -1,5 +1,9 @@
 # Chapter 16 - Callbacks (Functions that Run After Something Finishes)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -91,3 +95,11 @@ Web testing is inherently asynchronous. Click a button, WAIT for the page to loa
 | Asynchronous | Executes later, does not block |
 | setTimeout | Schedules code to run after a delay |
 | Callback Hell | Excessively nested callbacks creating unreadable code |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

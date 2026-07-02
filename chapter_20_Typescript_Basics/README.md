@@ -1,5 +1,9 @@
 # Chapter 20 - TypeScript Basics (Code Organization with Modules)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -78,3 +82,11 @@ Testing needs organization:
 | 25 | OOP Interview Qs | OOP exercises |
 | 26 | TypeScript | Type annotations |
 | 27 | TypeScript Interfaces | Interface definition |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

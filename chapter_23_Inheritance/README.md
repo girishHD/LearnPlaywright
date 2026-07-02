@@ -1,5 +1,9 @@
 # Chapter 23 - Inheritance (Code Reuse through Parent-Child Classes)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -86,3 +90,11 @@ Inheritance reduces code duplication:
 | super() | Calls the parent class constructor |
 | Mixin | A pattern for combining behaviors from multiple sources |
 | POM | Page Object Model — design pattern for test automation |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

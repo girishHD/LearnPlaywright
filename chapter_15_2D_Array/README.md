@@ -1,5 +1,7 @@
 # Chapter 15 - 2D Arrays (Grids and Matrices)
 
+[← Back to Main README](../README.md)
+
 ---
 
 ## What This Chapter Is
@@ -92,3 +94,11 @@ Pyramid pattern — spaces decrease while stars increase:
 | Nested Loop | A loop inside another loop |
 | Test Matrix | A table of test cases and their states |
 | Pattern | A visual structure created with symbols |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

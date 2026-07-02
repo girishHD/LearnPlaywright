@@ -1,5 +1,9 @@
 # Chapter 12 - Functions (Creating Reusable Code)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -111,3 +115,11 @@ Functions are the most important concept in programming. Playwright tests are fu
 | Closure | Function that retains access to outer scope |
 | Higher-Order | Function that operates on other functions |
 | Pure Function | Deterministic function with no side effects |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

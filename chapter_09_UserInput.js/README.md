@@ -1,5 +1,9 @@
 # Chapter 09 - User Input (Reading Data During Execution)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -45,3 +49,11 @@ Without input, programs always behave the same way. With input, programs can res
 | Prompt | A request for user input displayed by the program |
 | readline | Node.js built-in module for reading input |
 | Interface | The connection between user and program |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

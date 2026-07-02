@@ -1,5 +1,9 @@
 # Chapter 27 — TypeScript Interface
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -51,3 +55,11 @@ Interfaces are fundamental to TypeScript development. In Playwright testing, int
 | Optional Property | A property marked with `?` that may be omitted |
 | Readonly | A modifier that prevents property modification after creation |
 | ReadonlyArray | An array type that prevents mutation (push, pop, etc.) |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

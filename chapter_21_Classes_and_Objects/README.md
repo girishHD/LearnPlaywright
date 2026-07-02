@@ -1,5 +1,9 @@
 # Chapter 21 - Classes & Objects (OOP Blueprints)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -104,3 +108,11 @@ Testing needs organization:
 | Method | A function defined inside a class |
 | Static | Belongs to the class, not individual instances |
 | Private | Accessible only within the class (`#` prefix) |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

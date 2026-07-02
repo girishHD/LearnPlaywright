@@ -1,5 +1,9 @@
 # Chapter 26 — TypeScript (Type Annotations)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -68,3 +72,11 @@ TypeScript catches type-related bugs at compile time. In Playwright testing, typ
 | never | Return type for functions that never complete (throw or infinite loop) |
 | unknown | Safe version of `any` — requires type checking before use |
 | Type Narrowing | Using `typeof` checks to refine an `unknown` type |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

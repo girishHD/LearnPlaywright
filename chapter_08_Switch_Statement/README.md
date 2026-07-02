@@ -1,5 +1,9 @@
 # Chapter 08 - Switch Statement (Multi-Case Branching)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -55,3 +59,11 @@ Long if-else chains are error-prone and hard to read. Switch provides a cleaner 
 | Break | Terminates the current case |
 | Default | Catch-all case for unmatched values |
 | Fall-through | Execution continuing into the next case |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

@@ -1,5 +1,9 @@
 # Chapter 22 - Encapsulation (Data Hiding)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -75,3 +79,11 @@ Encapsulation protects data integrity:
 | Getter | A method that reads a private value |
 | Setter | A method that writes a private value with optional validation |
 | Data Hiding | Restricting direct access to an object's internal state |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

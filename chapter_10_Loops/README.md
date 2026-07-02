@@ -1,5 +1,9 @@
 # Chapter 10 - Loops (Repetition and Iteration)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -85,3 +89,11 @@ FizzBuzz specifically tests the ability to combine loops, conditionals, and the 
 | Do While | "Execute once, then check condition" |
 | Iterate | One pass through a loop body |
 | FizzBuzz | A common programming interview problem |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*

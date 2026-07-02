@@ -1,5 +1,9 @@
 # Chapter 01 - Basics (Getting Started with Programming)
 
+[← Back to Main README](../README.md)
+
+---
+
 ---
 
 ## What This Chapter Is
@@ -49,3 +53,11 @@ Without understanding the basics, you're just running code without comprehension
 | Loop | A construct that repeats a block of code |
 | Console | The environment where program output is displayed |
 | Argument | A value passed to a function for processing |
+
+---
+
+← [Back to Main README](../README.md)
+
+---
+
+*Happy coding!*
