@@ -2,7 +2,7 @@
 
 A comprehensive guide to browser automation with Playwright, covering JavaScript fundamentals through advanced testing concepts.
 
-This repository contains 27 chapters with exercises designed to take you from programming basics to writing real Playwright test automation. Each chapter includes its own README with detailed explanations of every file.
+This repository contains 32 chapters with exercises designed to take you from programming basics to writing real Playwright test automation. Each chapter includes its own README with detailed explanations of every file.
 
 ---
 
@@ -19,7 +19,7 @@ This repository contains 27 chapters with exercises designed to take you from pr
 
 ## About
 
-27 chapters covering JavaScript fundamentals, TypeScript, and Playwright testing. Each chapter builds on the previous, starting with basic programming concepts and culminating in Playwright browser automation, Object-Oriented Programming, and TypeScript type safety.
+32 chapters covering JavaScript fundamentals, TypeScript, and Playwright testing. Each chapter builds on the previous, starting with basic programming concepts and culminating in Playwright browser automation, Object-Oriented Programming, and TypeScript type safety.
 
 ---
 
@@ -85,6 +85,11 @@ This repository contains 27 chapters with exercises designed to take you from pr
 | 25 | 25 | OOP Interview Questions | OOP exercises, real-world examples |
 | 26 | 26 | TypeScript | Type annotations, primitives, functions, void/never |
 | 27 | 27 | TypeScript Interfaces | Interface definition, optional props, readonly |
+| 28 | 28 | Enum | Numeric/string enums, constants, HTTP methods, test status |
+| 29 | 29 | TypeScript Generics | Generic functions, classes, API response types |
+| 30 | 30 | Public/Private/Protected | Access modifiers, Page Object Model, abstract classes |
+| 31 | 31 | Type Override & Decorators | Type casting, `override`, method decorators |
+| 32 | 32 | Playwright Fundamentals | Playwright setup, test config, cross-browser testing |
 
 ---
 
@@ -350,6 +355,61 @@ Files:
 - `202_IF_Part2.ts` — Interface with optional properties
 - `203_IF_READONLY.ts` — Interface with readonly fields
 - `204_IF_ReadOnly.ts` — Readonly interface and ReadonlyArray
+
+---
+
+### Chapter 28 — Enum
+**Topics:** Numeric enums, string enums, constants, HTTP methods, test status codes
+
+Files:
+- `211_Enum.ts` — Enum basics with test status constants
+- `212_Enum_Fn.ts` — Enums in function parameters
+- `213_ENUM.ts` — Additional enum patterns
+- `214_API.ts` — HTTP method enum for API requests
+
+---
+
+### Chapter 29 — TypeScript Generics
+**Topics:** Generic functions, generic classes, API response typing, reuse with type safety
+
+Files:
+- `215_Generic.ts` — Generic function with type parameter
+- `216_Generic_CLass.ts` — Generic `TestDataStorage<T>` class
+- `217_Generic_API_Response.ts` — Typed API response handling
+
+---
+
+### Chapter 30 — Public/Private/Protected
+**Topics:** Access modifiers (`public`, `private`, `protected`), Page Object Model, abstract classes
+
+Files:
+- `218_PP.ts` — Access modifier examples with `APIClient`
+- `219_PageObjectModel.ts` — POM pattern using `protected` members
+- `220_READONLY.ts` — Readonly properties
+- `221_Abtract_Class.ts` — Abstract class `BaseTest`
+
+---
+
+### Chapter 31 — Type Override & Decorators
+**Topics:** Type casting (`as`), type aliases, method `override`, decorators
+
+Files:
+- `222_Type_As.ts` — Type casting unknown to interface
+- `223_Type_Alias_As.ts` — Type alias with `as` casting
+- `224_Overide.ts` — TypeScript `override` keyword
+- `225_IQ.ts` — Override interview example
+- `226_Decorators.ts` — Method decorator basics
+- `227_Decorators_2.ts` — Decorator patterns continued
+- `228_Multiple_Decor.ts` — Multiple decorator composition
+
+---
+
+### Chapter 32 — Playwright Fundamentals
+**Topics:** Playwright project setup, test configuration, cross-browser testing (Chromium/Firefox/WebKit), basic test structure
+
+Files:
+- `package.json`, `playwright.config.ts`, `tsconfig.json`, `.gitignore`
+- `tests/example.spec.ts` — Basic Playwright test with title assertion
 
 ---
 
