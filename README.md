@@ -251,6 +251,7 @@ Files:
 Files:
 - `package.json`, `playwright.config.ts`, `.gitignore`
 - `sdetlive.pdf`, `caveman.pdf` (reference guides)
+- `screenshot.mjs` — Headless browser screenshot script
 - `tests/example.spec.ts`, `tests/example1.spec.ts`
 - `tests/valid-scenario-tta-cart.spec.ts`, `tests/invalid-scenario-tta-cart.spec.ts`
 
@@ -409,7 +410,7 @@ Files:
 
 Files:
 - `package.json`, `playwright.config.ts`, `tsconfig.json`, `.gitignore`
-- `tests/example.spec.ts` — Basic Playwright test with title assertion
+- `tests/example.spec.ts` — Basic Playwright test with title assertion (second test commented out for progressive learning)
 
 ---
 
